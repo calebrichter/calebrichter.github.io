@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+- [Welcome to these writings](#welcome-to-these-writings)
+  - [This is a writing](#this-is-a-writing)
+  - [numbered list](#numbered-list)
 
-You can use the [editor on GitHub](https://github.com/calebrichter/richter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Welcome to these writings
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## This is a writing
 
-### Markdown
+*quick* Markdown practice:
+> practice your Markdown  
+> and the knowledge will not leave you
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+\# quick bash program \
+    ```for i in 1 2 3; do; echo $i; done```
+$$
+_math= _fu_n
+$$
 
-```markdown
-Syntax highlighted code block
+* list
+* list 
+  * this
+  * thing
+  * is indented
 
-# Header 1
-## Header 2
-### Header 3
+## numbered list
+1. numbered list
+2. numbered list
+   1. list numbered
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/calebrichter/richter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
