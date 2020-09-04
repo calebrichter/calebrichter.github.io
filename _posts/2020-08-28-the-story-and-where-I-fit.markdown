@@ -14,7 +14,7 @@ Along the way he revealed an enormous amount of other truths that he has communi
 
 ## Whatever you do for the least of these
 
-Jesus exhibited a beatiful, sacrificial love by humbling himself and laying down His life.
+Jesus defined beautiful, sacrificial love by dying so that we might live.
 Christ's love and His sacrifice are __the love__ which stands at the center of everything.
 
 Jesus exhorts us, not only by his actions but also with his words, toward laying down our lives for others.
@@ -37,30 +37,34 @@ There is much to be loved.
 
 Not just to be adored, but to be made whole, to be brought toward the purposes for which God created. 
 
-My mission is to use the particulars of my design to bring people, systems, nature, technology and all else toward their inherent purposes.
+My mission is to use who I am to bring people, systems, nature, technology and all else toward their inherent purposes.
 
 His very Spirit dwells alongside mine, bringing me toward Him, guiding me toward true purpose. 
 
 ### Me
-I resolve to every day bring myself toward the purpose for which I was created. God will create and sustain this resolve.
 
-Technology constantly separates people from their created purpose.
-Its design so often brings people toward their desires rather than their reason for being.
- 
-
-I will be a force for the use of technology in a way that benefits people rather than distracts them.
+I resolve by God's grace and His strength to every day bring myself toward the purpose for which I was created. 
 
 I will use opportunities in relationships to encourage people in the _right_ direction.
+
+My gifts and abilities will fulfill their cause as I steward the things of this world toward God's will.
 
 I will give thanks, rejoice, and thank God for all the good gifts of life.
 
 ### Machine Learning
 
+Technology constantly separates people from their created purpose.
+Its design so often brings people toward their desires rather than their reason for being.
+
+I will be a force for the use of technology in a way that benefits people rather than distracts them.
+
 Machine learning will be the technology that shapes the world over the next 40 years. The complex reasoning capacity will continue to grow, replacing humans at more and more tasks as time goes on.
-If machine learning makes progress on sample efficiency or cost effectiveness faster than it makes progress on robustness, the deployed results will be damaging to the lives of millions of people. 
 
-It is already seen in the deployed results of Netflix, Facebook, Youtube, and many other social media sites how machine learning can aid the process of bringing people away from thriving.
+If machine learning makes progress on sample efficiency or cost effectiveness without making progress on robustness, the deployed results will be damaging to the lives of millions of people. 
 
-Robustness must not simply exist on a model level from the training set to the real world, but also from the model's purpose to the cause of human thriving.
+The destructive results have already been seen the in the deployed results of Netflix, Facebook, Youtube, and many other social media sites. 
+Machine learning has a terrible potential to bring people away from thriving.
 
-Developing expertise in this technology now will put me in a place to love the world with my career by using my understanding to help shape technologies that pull people towards who they truly are and their deep purposes.
+There is research into how a model can be robust from the training to the real world, but the most important research will be done into how a model can be robust from the model's goal to the cause of human thriving.
+
+Developing expertise in machine learning now will put me in a place to love the world with my career by using my understanding to help shape technologies that pull people towards who they are, toward deep purpose.
