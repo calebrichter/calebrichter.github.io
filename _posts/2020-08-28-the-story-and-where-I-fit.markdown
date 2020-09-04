@@ -53,3 +53,14 @@ I will be a force for the use of technology in a way that benefits people rather
 I will use opportunities in relationships to encourage people in the _right_ direction.
 
 I will give thanks, rejoice, and thank God for all the good gifts of life.
+
+### Machine Learning
+
+Machine learning will be the technology that shapes the world over the next 40 years. The complex reasoning capacity will continue to grow, replacing humans at more and more tasks as time goes on.
+If machine learning makes progress on sample efficiency or cost effectiveness faster than it makes progress on robustness, the deployed results will be damaging to the lives of millions of people. 
+
+It is already seen in the deployed results of Netflix, Facebook, Youtube, and many other social media sites how machine learning can aid the process of bringing people away from thriving.
+
+Robustness must not simply exist on a model level from the training set to the real world, but also from the model's purpose to the cause of human thriving.
+
+Developing expertise in this technology now will put me in a place to love the world with my career by using my understanding to help shape technologies that pull people towards who they truly are and their deep purposes.
