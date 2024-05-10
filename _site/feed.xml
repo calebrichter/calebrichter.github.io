@@ -1,19 +1,120 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-08-26T09:42:18-04:00</updated><id>/feed.xml</id><title type="html">AI/ML/ME</title><subtitle>Artificial intelligence, machine learning, and my musings</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2020/08/25/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-08-25T09:11:17-04:00</published><updated>2020-08-25T09:11:17-04:00</updated><id>/jekyll/update/2020/08/25/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2020/08/25/welcome-to-jekyll.html">&lt;p&gt;This is a test of whether or not this is working&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-05-10T10:52:03-04:00</updated><id>/feed.xml</id><title type="html">AI/ML/ME</title><subtitle>Artificial intelligence, machine learning, and my musings</subtitle><entry><title type="html">It Doesn’t Feel Like Love</title><link href="/storytelling/machine-learning/career/vocation/calling/christian/love/technical/2020/09/02/it-doesnt-feel-like-love.html" rel="alternate" type="text/html" title="It Doesn’t Feel Like Love" /><published>2020-09-02T07:31:17-04:00</published><updated>2020-09-02T07:31:17-04:00</updated><id>/storytelling/machine-learning/career/vocation/calling/christian/love/technical/2020/09/02/it-doesnt-feel-like-love</id><content type="html" xml:base="/storytelling/machine-learning/career/vocation/calling/christian/love/technical/2020/09/02/it-doesnt-feel-like-love.html"><![CDATA[<h1 id="it-doesnt-feel-like-love">It Doesn’t Feel Like Love</h1>
 
-&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<p>A Christian is called to love God and love his neighbor.
+This essential calling stands at the base of our reality.
+God showed us how to love in the life of Christ.</p>
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+<p>Christ performed and recommended actions which are unquestionably loving. 
+In His life, He taught people life giving truths, fed the hungry, healed the sick, cast out demons, and ultimately gave up his life to defeat sin and death.
+He commands us to do the same – to care for the sick and the orphan, to feed the hungry, to teach and encourage people in the life giving truths that he brought. 
+These actions are bursting with the beauty of love.</p>
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+<p>It is abundantly clear when we are volunteering at a soup kitchen or orphanage how we are following in Christ’s footsteps.
+It feels exactly right, perfectly aligned with what God wants us to do with our time and efforts.</p>
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+<p>but then we have to go back to work</p>
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+<p>back to the real world</p>
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<p>Where for many of us, it seems like there just isn’t opportunity to do what Jesus commands us to.</p>
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">This is a test of whether or not this is working</summary></entry></feed>
+<p>I work in computer science. It is a very technical field, where we spend much of our time thinking about problems that are seemingly disconnected from purposeful love of humans. 
+I spend large amounts of time trying to detangle miscommunications between computer programs.
+I automate routine computer maintenence tasks that are so mundane it’s hard to come up with a name for the scripts I’m writing.</p>
+
+<p>Recently, I have been studying machine learning, because I believe it will be hugely impactful in the future.
+There is a lot of linear algebra, statistics, and calculus involved. 
+When I’m diving into the complexities of neural networks, trying to develop a deep understanding and intuition for how they work, It feels like I’m just learning about a system of how numbers relate to each other.
+There is no smiling face deep within the equation for backpropogation.
+No contented man standing on the other side of stochastic gradient descent.
+It feels like I’m learning about a system completely disconnected from any sort of loving actions.</p>
+
+<p><strong>When I’m striving for deep technical excellence, it doesn’t feel connected to the love that stands at the base of my reality.</strong></p>
+
+<h1 id="but-it-is">But it is</h1>
+
+<p><a href="https://conceptually.org/concepts/scope-insensitivity">Scope insensitivity</a> is a cognitive bias, where humans tend to have a really bad sense of how things grow multiplicatively. Adding another zero at the end of a large number doesn</p>
+
+<p>When numbers get large, it’s much more challenging to connect to them. We don’t understand what it means that 10 million people are using</p>
+
+<p><img src="https://imgs.xkcd.com/comics/million_billion_trillion.png" alt="xkcd on big numbers" /></p>
+
+<p>Because people are really bad at thinking about big numbers, we tend to underestimate the scale on which technology impacts our world.</p>
+
+<p>At work as a software engineer, it consistently seems to me like there is <em>no possible way</em> that what I am doing is worth what they are paying me. But software engineers are paid what they are paid because they add that much value to the company. My company offers a variety of financial services to people. We recently passed the threshold of 100 billion dollars of deposits.</p>]]></content><author><name></name></author><category term="storytelling" /><category term="machine-learning" /><category term="career" /><category term="vocation" /><category term="calling" /><category term="christian" /><category term="love" /><category term="technical" /><summary type="html"><![CDATA[It Doesn’t Feel Like Love]]></summary></entry><entry><title type="html">(re)learning the basics of Deep Learning</title><link href="/deep-learning/machine-learning/introduction/learning/2020/08/25/relearning-the-basics.html" rel="alternate" type="text/html" title="(re)learning the basics of Deep Learning" /><published>2020-08-25T09:11:17-04:00</published><updated>2020-08-25T09:11:17-04:00</updated><id>/deep-learning/machine-learning/introduction/learning/2020/08/25/relearning-the-basics</id><content type="html" xml:base="/deep-learning/machine-learning/introduction/learning/2020/08/25/relearning-the-basics.html"><![CDATA[<h1 id="background">Background</h1>
+<p>I am a graduate of the University of Michigan Computer Science. My passion is machine learning. I worked in a machine learning lab at Umich for three years. The lab taught me tons about deep learning, neural networks, data, and research. However, I need to know that I have a comprehensive foundation for continuing my pursuit of machine learning understanding. After a lot of looking about and comparing what free content was out there for this (there is a lot), I have decided on the <a href="d2l.ai">Dive into Deep Learning</a> interactive textbook. I learn best from working through problems, and I like the all text format.</p>
+
+<p>Notes</p>
+<h2 id="intro">Intro</h2>
+<p>Applications have traditionally been able to completely capture all of the internal logic. Machine learning fills the space of problems that cannot be simply captured in logic by <em>learning</em> from experience</p>
+
+<p>There are a lot of different methods of optimizing parameters towards a goal which have been used on many different tasks from varying domains.</p>
+
+<p><strong>Unsupervised</strong> learning takes unclassified input or data and tries to make sense of it- which can mean trying to classify it or to separate the signal from the noise and create it into something meaningful.</p>
+
+<p><strong>Supervised</strong> learning takes well structured input data such as labeled images and tries to build systems to classify, translate,  reccomend, or otherwise detect and classify the meaningful signal of the input data so that it can be used on a real world problem</p>
+
+<p><strong>Reinforcement</strong> learning trains an agent acting in an environment – rather than simply noticing or classifying patterns, it tries to create its observations of an environment into meaningful actions.</p>
+
+<p>There have been many recent innovations enabled due to the large amounts of processing power now available.</p>]]></content><author><name></name></author><category term="deep-learning" /><category term="machine-learning" /><category term="introduction" /><category term="learning" /><summary type="html"><![CDATA[Background I am a graduate of the University of Michigan Computer Science. My passion is machine learning. I worked in a machine learning lab at Umich for three years. The lab taught me tons about deep learning, neural networks, data, and research. However, I need to know that I have a comprehensive foundation for continuing my pursuit of machine learning understanding. After a lot of looking about and comparing what free content was out there for this (there is a lot), I have decided on the Dive into Deep Learning interactive textbook. I learn best from working through problems, and I like the all text format.]]></summary></entry><entry><title type="html">The Story and Where I Fit</title><link href="/storytelling/machine-learning/career/vocation/calling/2020/08/25/the-story-and-where-I-fit.html" rel="alternate" type="text/html" title="The Story and Where I Fit" /><published>2020-08-25T09:11:17-04:00</published><updated>2020-08-25T09:11:17-04:00</updated><id>/storytelling/machine-learning/career/vocation/calling/2020/08/25/the-story-and-where-I-fit</id><content type="html" xml:base="/storytelling/machine-learning/career/vocation/calling/2020/08/25/the-story-and-where-I-fit.html"><![CDATA[<h1 id="what-i-believe">What I believe</h1>
+<h2 id="where-we-are">Where we are</h2>
+<p>God put us here so that we could love each other and love Him.
+We frequently love Him <strong>by</strong> loving each other.
+He personally came to this earth and showed us what love is in the person of Jesus.
+Along the way he revealed an enormous amount of other truths that he has communicated to us through His Word, the Bible.</p>
+
+<h2 id="whatever-you-do-for-the-least-of-these">Whatever you do for the least of these</h2>
+
+<p>Jesus defined beautiful, sacrificial love by dying so that we might live.
+Christ’s love and His sacrifice are <strong>the love</strong> which stands at the center of everything.</p>
+
+<p>Jesus exhorts us, not only by his actions but also with his words, toward laying down our lives for others.
+He calls us to serve, care for, and in all ways love the people of this world by leveraging the unique qualities that he created each of us with.</p>
+
+<h2 id="where-i-am">Where I am</h2>
+
+<h3 id="design">Design</h3>
+
+<p>God <em>designed</em> me.</p>
+
+<p><em>Me in particular.</em></p>
+
+<p>He has brought me to exactly where I am, with the exact intricacies of my being, with the exact balance of my talents, with the family I have and the life that I have had.</p>
+
+<h3 id="mission">Mission</h3>
+
+<p>There is much to be loved.</p>
+
+<p>Not just to be adored, but to be made whole, to be brought toward the purposes for which God created.</p>
+
+<p>My mission is to use who I am to bring people, systems, nature, technology and all else toward their inherent purposes.</p>
+
+<p>His very Spirit dwells alongside mine, bringing me toward Him, guiding me toward true purpose.</p>
+
+<h3 id="me">Me</h3>
+
+<p>I resolve by God’s grace and His strength to every day bring myself toward the purpose for which I was created.</p>
+
+<p>I will use opportunities in relationships to encourage people in the <em>right</em> direction.</p>
+
+<p>My gifts and abilities will fulfill their cause as I steward the things of this world toward God’s will.</p>
+
+<p>I will give thanks, rejoice, and thank God for all the good gifts of life.</p>
+
+<h3 id="machine-learning">Machine Learning</h3>
+
+<p>Technology constantly separates people from their created purpose.
+Its design so often brings people toward their desires rather than their reason for being.</p>
+
+<p>I will be a force for the use of technology in a way that benefits people rather than distracts them.</p>
+
+<p>Machine learning will be the technology that shapes the world over the next 40 years. The complex reasoning capacity will continue to grow, replacing humans at more and more tasks as time goes on.</p>
+
+<p>If machine learning makes progress on sample efficiency or cost effectiveness without making progress on robustness, the deployed results will be damaging to the lives of millions of people.</p>
+
+<p>The destructive results have already been seen the in the deployed results of Netflix, Facebook, Youtube, and many other social media sites. 
+Machine learning has a terrible potential to bring people away from thriving.</p>
+
+<p>There is research into how a model can be robust from the training to the real world, but the most important research will be done into how a model can be robust from the model’s goal to the cause of human thriving.</p>
+
+<p>Developing expertise in machine learning now will put me in a place to love the world with my career by using my understanding to help shape technologies that pull people towards who they are, toward deep purpose.</p>]]></content><author><name></name></author><category term="storytelling" /><category term="machine-learning" /><category term="career" /><category term="vocation" /><category term="calling" /><summary type="html"><![CDATA[What I believe Where we are God put us here so that we could love each other and love Him. We frequently love Him by loving each other. He personally came to this earth and showed us what love is in the person of Jesus. Along the way he revealed an enormous amount of other truths that he has communicated to us through His Word, the Bible.]]></summary></entry></feed>
