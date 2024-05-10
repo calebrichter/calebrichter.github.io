@@ -5,8 +5,6 @@ date:   2020-09-02 07:31:17 -0400
 categories:  storytelling machine-learning career vocation calling christian love technical
 ---
 
-# It Doesn't Feel Like Love
-
 A Christian is called to love God and love his neighbor.
 This essential calling stands at the base of our reality.
 God showed us how to love in the life of Christ.
@@ -42,17 +40,19 @@ __When I'm striving for deep technical excellence, it doesn't feel connected to 
 # But it is
 
 
-[Scope insensitivity](https://conceptually.org/concepts/scope-insensitivity) is a cognitive bias, where humans tend to have a really bad sense of how things grow multiplicatively. Adding another zero at the end of a large number doesn
-
-When numbers get large, it's much more challenging to connect to them. We don't understand what it means that 10 million people are using 
+[Scope insensitivity](https://conceptually.org/concepts/scope-insensitivity) is a cognitive bias, where humans tend to have a really bad sense of how things grow multiplicatively. Adding another zero at the end of a large number doesn't make us actually feel like it's all that much bigger.
 
 
 ![xkcd on big numbers](https://imgs.xkcd.com/comics/million_billion_trillion.png)
 
-Because people are really bad at thinking about big numbers, we tend to underestimate the scale on which technology impacts our world.
+Because people are really bad at thinking about big numbers, we tend to underestimate the scale on which technology impacts our world. We can't fathom the difference between something impacting 10 million people and 100 million people.
 
+__What does this mean for a Christian who is trying to love people?__
 
+"The love of God can make the smallest act of love sublime." Love can make me sharing a sandwich with my family an act of communion between eternal beings. If an eternal soul is brought an iota closer to God through our actions, that action has a beautiful and eternal value. 
 
+Christians always live in the reality that our actions have far more meaning than they seem to. We are called to do all things as if they are for God. To work as if we are working for the Lord. To share sandwiches as if we are sharing them with Christ himself.
 
+So for a Christian, scope insensitivity shouldn't be a foreign concept. Paul prays that the people in Ephesus "may have power, together with all the Lord’s holy people, to grasp how wide and long and high and deep is the love of Christ"
 
-At work as a software engineer, it consistently seems to me like there is _no possible way_ that what I am doing is worth what they are paying me. But software engineers are paid what they are paid because they add that much value to the company. My company offers a variety of financial services to people. We recently passed the threshold of 100 billion dollars of deposits. 
+I pray that we, as Christians and as workers in various vocations, may see whatever work God calls us to as the immeasurably valuable work that it truly is. And I pray that we would be constantly inspired by God's immeasurable love for us. 
