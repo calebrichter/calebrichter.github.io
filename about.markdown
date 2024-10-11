@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I would like to use technology to help people thrive. 
+I care about building technology that helps people thrive.
 
-onrock.net - an app to help Christians practice their faith.
+onrock.net - [About](calebrichter.github.io/aboutonrock)
